@@ -42,9 +42,21 @@
           <%# </ul>
         </li> %>
       </ul>
+
       <li class="nav-link">
         <%= link_to 'About Us', [:about, :index] %>
       </li>
+
+      <ul class="navbar-nav navbar-right">
+      <li>
+        <% if current_user %>
+       <li> <a>Welcome <%= current_user.name %></a></li> <li><%= link_to "Logout", '/logout' %></li>
+      <% else %>
+         <li class="nav-link"> <%= link_to 'Login', '/login' %></li>  <li class="nav-link"> <%= link_to 'Sign Up', '/signup' %></li>
+      <% end %>
+      </li>
+      </ul>
+
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <a
