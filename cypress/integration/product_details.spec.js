@@ -1,5 +1,5 @@
 describe("Navigation", () => {
-  it("should visit root", () => {
+  it("Should visit root", () => {
     cy.visit("/");
   });
 
