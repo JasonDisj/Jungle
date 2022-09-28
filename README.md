@@ -1,16 +1,16 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of practicing Rails.
 
 ## App UI
 
-!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/jungle.png?raw=true)
+!["Screenshot of jungle ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/jungle.png?raw=true)
 
 ## User login page
 
-!["Screenshot of user login"](https://github.com/JasonDisj/Jungle/blob/master/docs/user-login-page.png?raw=true)
+!["Screenshot of user login page"](https://github.com/JasonDisj/Jungle/blob/master/docs/user-login-page.png?raw=true)
 
-## Only admin has dashboard with products and categories
+## Only admins have dashboard with products and categories
 
 !["Screenshot of admin dashboard"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-dashboard.png?raw=true)
 
@@ -20,11 +20,11 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Admin can edit categories
 
-!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-categories.png?raw=true)
+!["Screenshot of admin categories"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-categories.png?raw=true)
 
 ## User can pay by credit card
 
-!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/payment.png?raw=true)
+!["Screenshot of payment"](https://github.com/JasonDisj/Jungle/blob/master/docs/payment.png?raw=true)
 
 ## Setup
 
