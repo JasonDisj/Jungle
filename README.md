@@ -2,6 +2,30 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## App UI
+
+!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/jungle.png?raw=true)
+
+## User login page
+
+!["Screenshot of user login"](https://github.com/JasonDisj/Jungle/blob/master/docs/user-login-page.png?raw=true)
+
+## Only admin has dashboard with products and categories
+
+!["Screenshot of admin dashboard"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-dashboard.png?raw=true)
+
+## Admin can edit products
+
+!["Screenshot of admin products"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-products.png?raw=true)
+
+## Admin can edit categories
+
+!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/admin-own-categories.png?raw=true)
+
+## User can pay by credit card
+
+!["Screenshot of app ui"](https://github.com/JasonDisj/Jungle/blob/master/docs/payment.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
